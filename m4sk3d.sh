@@ -6,15 +6,11 @@ sleep 2
 mkdir Tools
 clear 
 echo -e '\033[31;40;1m 
-                                               
             ,---.       ,--.    ,----.    ,--. 
 ,--,--,--. /    | ,---. |  |,-. '.-.  | ,-|  | 
 |        |/  '  |(  .-' |     /   .' < ' .-. | 
 |  |  |  |'--|  |.-'  `)|  \  \ /'-'  |\ `-' | 
-`--`--`--'   `--'`----' `--'`--'`----'  `---'  
-                                                                                                                        
-                                                                                                   
-                                                                                                    v1
+`--`--`--'   `--'`----' `--'`--'`----'  `---'                                                                                                                                                    v1
   developed by the-chubby-coder
   github: https://github.com/the-chubby-coder/   
 \033[33;4mVersion:\033[0m 1            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m the-chubby-coder
