@@ -65,6 +65,7 @@ echo -e "\033[47;3;35m Installation may take a while...\033[0m"
 sleep 3
 cd Tools
 git clone https://github.com/techchipnet/CamPhish
+cd CamPhish
 bash camphish.sh
 
 elif [[ $islem == 4 || $islem == 04 ]]; then
