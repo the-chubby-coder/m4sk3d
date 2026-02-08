@@ -64,9 +64,7 @@ clear
 echo -e "\033[47;3;35m Installation may take a while...\033[0m"
 sleep 3
 cd Tools
-git clone https://github.com/s-r-e-e-r-a-j/CamHawk 
-cd CamHawk
-cd CamHawk
+https://github.com/s-r-e-e-r-a-j/CamHawk/tree/main/CamHawk
 bash camhawk.sh
 
 elif [[ $islem == 4 || $islem == 04 ]]; then
