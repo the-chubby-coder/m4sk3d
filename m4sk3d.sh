@@ -21,7 +21,7 @@ echo -e '\033[31;40;1m
 \033[33;4mVersion:\033[0m 1            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m the-chubby-coder
 
 \e[37m[1]\e[36m Request & Updates        \e[37m[2]\e[36m Phishing Tool				
-\e[37m[3]\e[36m CamPhish                   \e[37m[4]\e[36m User Finder					
+\e[37m[3]\e[36m CamHawk                   \e[37m[4]\e[36m User Finder					
 \e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
 \e[37m[7]\e[36m How to use ?	          \e[37m[8]\e[36m Installed Programs		
 \e[37m[9]\e[36m IP Info	                  \e[37m[10]\e[36m dorks-eye
@@ -64,9 +64,10 @@ clear
 echo -e "\033[47;3;35m Installation may take a while...\033[0m"
 sleep 3
 cd Tools
-git clone https://github.com/techchipnet/CamPhish
-cd CamPhish
-bash camphish.sh
+git clone https://github.com/s-r-e-e-r-a-j/CamHawk
+cd CamHawk
+cd CamHawk
+bash camhawk.sh
 
 elif [[ $islem == 4 || $islem == 04 ]]; then
 clear
