@@ -23,7 +23,7 @@ echo -e '\033[31;40;1m
 \e[37m[1]\e[36m Request & Updates        \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m CamHawk                   \e[37m[4]\e[36m User Finder					
 \e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
-\e[37m[7]\e[36m How to use ?	          \e[37m[8]\e[36m Installed Programs		
+\e[37m[7]\e[36m How to use ?	          \e[37m[8]\e[36m Uninstall Programs		
 \e[37m[9]\e[36m IP Info	                  \e[37m[10]\e[36m dorks-eye
 \e[37m[11]\e[36m ghost_eye                    \e[37m[12]\e[36m RED_HAWK
 \e[37m[13]\e[36m VirusCrafter                 \e[37m[14]\e[36m Info-Site
